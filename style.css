@@ -2,6 +2,33 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
 canvas {
   display: block;
+  border-radius: 20px;
+
+}
+
+#p5sketch {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.AdditionalButtons {
+  text-align: center;
+}
+
+.button {
+  background-color: #a8325a;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }

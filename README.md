@@ -1,10 +1,9 @@
-# should-you-repost
-Should You Repost? is a program detailing whether it's worth reposting someone else's art.
+# ART 101 Final Project - Art Reposter
 
-Art theft is very common around the digital age, it even happens without others noticing. Lets do a better job and educate others on the etiquette of sharing other people's art. 
+## Timeline
 
-## Timeline 
-- 4/18 - 4/20: get basic Wireframe completed 
-- 4/21 - 4/23: create the hand-drawn art needed for this program 
-- 4/24 - 4/25: debugging
-- 4/26: finishing touches, prepare for presentation! 
+5/16 - 5/18: finish all the assets and importing the library 
+
+5/19 - 5/20: functionalities, refactoring code, add all screens (basis of project 3)
+
+5/21 - 5/22: add all functionalities, see if I can rewrite the code to be less verbose.Finish project. 
